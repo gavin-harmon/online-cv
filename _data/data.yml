@@ -41,7 +41,7 @@ sidebar:
         - idiom: Spanish
           level: Professional
 
-    interests:
+    interests: False
       title: Interests
       info:
         - item: Climbing
