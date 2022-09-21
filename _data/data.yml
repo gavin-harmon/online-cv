@@ -34,11 +34,12 @@ sidebar:
 projects:
     title: Projects
     intro: >
-      These are the data projects that are safe to be published on Github. All documents contain dummy data for demo purposes only.
+      These are the data projects that are safe to be published on GitHub. All documents contain dummy data for demo purposes only.
     assignments:  
-      - title: Upload Assistant 2019 Q4 - 2021 Q2 - Repository link
+      - title: Upload Assistant 2019 Q4 - 2021 Q2 - GitHub Repository
         
-        tagline: "Python executable capable of reading xlsx, performing granular and aggregate result validations with user prompting, outputing new xlsx financial reports, and source files for data pipeline inputs."
+        tagline: >
+        "Python executable capable of reading xlsx, performing granular and aggregate result validations with user prompting, outputing new xlsx financial reports, and source files for data pipeline inputs."
         link: "https://github.com/gavin-harmon/uploadassistantproj"
       - title: Upload Assistant doc example - landing page from archives
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/read_me.html"
