@@ -41,17 +41,7 @@ sidebar:
         - idiom: Spanish
           level: Professional
 
-    interests: False
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+    interests:
 
 career-profile:
     title: Career Profile
