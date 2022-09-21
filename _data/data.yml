@@ -37,13 +37,13 @@ projects:
       These are the data projects that are safe to be published on github. All versions contain dummy data for demo purposes only.
     assignments:
       - title: Upload Assistant 2019 Q4 - 2021 Q2 - Repository
-        link: "#https://github.com/gavin-harmon/uploadassistantproj"
+        link: "https://github.com/gavin-harmon/uploadassistantproj"
       - title: Upload Assistant doc example - landing page from archives
-        link: "#https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/read_me.html"
+        link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/read_me.html"
       - title: Upload Assistant doc example - scripting from archives
-        link: "#https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/modules.html"
+        link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/modules.html"
       - title: Upload Assistant doc example - Tutorial video
-        link: "#https://www.youtube.com/results?search_query=upload+assistant+allianz"
+        link: "https://www.youtube.com/results?search_query=upload+assistant+allianz"
         tagline: "Python executable capable of reading xlsx, performing granular and aggregate result validations with user prompting, outputing new xlsx financial reports, and source files for data pipeline inputs."
         
 
