@@ -182,6 +182,11 @@ p {
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
   }
+    .upper-row {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2px;
+  }
   .projects-section {
     .intro {
       margin-bottom: 30px;
@@ -195,11 +200,6 @@ p {
     .item {
       margin-bottom: 30px;
     }
-  }
-  .upper-row {
-    position: relative;
-    overflow: hidden;
-    margin-bottom: 2px;
   }
   .job-title,
   .degree {
