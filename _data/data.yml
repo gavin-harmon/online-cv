@@ -34,11 +34,11 @@ sidebar:
 projects:
     title: Projects
     intro: >
-      These are the data projects that are safe to be published on github. All versions contain dummy data for demo purposes only.
-    assignments:
+      These are the data projects that are safe to be published on Github. All documents contain dummy data for demo purposes only.
+    assignments: Upload Assistant 2019 Q4 - 2021 Q2 
       - title: Upload Assistant 2019 Q4 - 2021 Q2 - Repository
         link: "https://github.com/gavin-harmon/uploadassistantproj"
-      - title: Upload Assistant doc example - landing page from archives
+        title: Upload Assistant doc example - landing page from archives
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/read_me.html"
       - title: Upload Assistant doc example - scripting from archives
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/modules.html"
