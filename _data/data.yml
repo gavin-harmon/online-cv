@@ -40,7 +40,8 @@ sidebar:
         - idiom: Spanish
           level: Professional
    
-   interests:
+   
+    interests:
       title: Interests
       info:
         - item: Climbing
@@ -71,8 +72,9 @@ education:
           at VCU's School of Business. Introductions to R and Stata, regression
           analysis, and using actual publicly available data sets started my
           journey in data science/engineering technologies and practices.
+
 experiences:
-    title: Career
+    title: Experiences
     info:
       - role: Lead Developer
         time: 2015 - Present
