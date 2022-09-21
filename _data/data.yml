@@ -34,13 +34,15 @@ sidebar:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are the data projects that are safe to be published on github. All versions contain dummy data for demo purposes only.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Upload Assistant 2019 Q4 - 2021 Q2
+        tagline: "Python executable capable of reading xlsx, performing granular and aggregate result validations with user prompting, outputing new xlsx financial reports, and source files for data pipeline inputs."
+        link: "#https://github.com/gavin-harmon/uploadassistantproj"
+        link: "#https://www.youtube.com/results?search_query=upload+assistant+allianz"
+        link: "#https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/read_me.html"
+        link: "#https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/modules.html"
+
 
       - title: DevStudio
         link: "#"
