@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: gavinharmonva@gmail.com
     phone: (703) 927-5258
-    timezone: America/New York Timezone
+    timezone: EST/Richmond, VA USA
     Location: Richmond, VA #do not add http://
     linkedin: gavin-harmon
     # xing: alandoe
@@ -37,15 +37,14 @@ projects:
       These are the data projects that are safe to be public on GitHub. All documents contain dummy data for demo purposes only.
     assignments:  
       - title: Upload Assistant 2019Q4-2021Q2 - GitHub Repository
-        tagline: "<br>Python executable capable of reading xlsx, performing granular and aggregate result validations with user prompting, outputing new xlsx financial reports, and source files for data pipeline inputs."
+        tagline: "<br>Python executable capable of reading xlsx, performing granular and aggregate result validations with user prompting, displaying and xlsx expoting financial reports, and creating json/parquet inputs for the data science pipeline."
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj"
       - title: </span> </span> Application screenshots.
         link: "https://github.com/gavin-harmon/uploadassistantproj/blob/master/screenshots/screenshots.html"
-      - title: </span> </span>  Doc example - readme page (from archives)
+      - title: </span> </span>  Doc example - readme page (from archives broken links)
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/read_me.html"
-      - title: </span> </span> Doc example - scripting (from archives)
+      - title: </span> </span> Doc example - scripting (from archives broken links)
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/modules.html"
-
           
       - title: DevStudio
         link: "#"
