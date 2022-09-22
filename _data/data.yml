@@ -127,20 +127,20 @@ publications:
           Description - GUI Application that reads technical reporting from local underwriters, displays aggregated reporting, shows comparisons to known financials, and validations for both data issues and metric thresholds before saving in json or parquet data files.<br>
           Impact - Replaced key project barrier; weeks-long, meetings-based, data quality feedback loop, with an instant process, survey results, and user feedback.<br><br>
 
-        CONTACT CENTER BI WAREHOUSE
-          Code -  MS SQL Server; SSMS; SSIS
-          Description - Business Intelligence server project lifecycle lead
-          Impact - Of three departments, this was the only one that went live on time and without major issues. Ability to manage vendors, anticipate process failures, include feature flags, and upskill ETL abilities as needed resulted in automated, source combination, and novel management user tools.
+        CONTACT CENTER BI WAREHOUSE<br>
+          Code -  MS SQL Server; SSMS; SSIS<br>
+          Description - Business Intelligence server project lifecycle lead<br>
+          Impact - Of three departments, this was the only one that went live on time and without major issues. Ability to manage vendors, anticipate process failures, include feature flags, and upskill ETL abilities as needed resulted in automated, source combination, and novel management user tools.<br><br>
 
-        MOBILE CALL CENTER MANAGEMENT REPORT
-          Code -  Cisco; Powershell; XML; SSIS; SQL; Klipfolio
-          Description - Phone-based presentation of service KPIs (longest call waiting, agents available etc.).
-          Impact - Extensive collaboration and requirement review resulted in provided 24/7 visibility into 15 departments in North America while providing managers context to avoid ‘knee jerk’ resource allocation.
+        MOBILE CALL CENTER MANAGEMENT REPORT<br>
+          Code -  Cisco; Powershell; XML; SSIS; SQL; Klipfolio<br>
+          Description - Phone-based presentation of service KPIs (longest call waiting, agents available etc.).<br>
+          Impact - Extensive collaboration and requirement review resulted in provided 24/7 visibility into 15 departments in North America while providing managers context to avoid ‘knee jerk’ resource allocation.<br><br>
 
-        B2C SALES GAMIFICATION
-          Code -  Cognos; PeopleSoft; Cisco; SSIS; SQL; Klipfolio
-          Description - Sales leaderboard with 2-minute refresh and GIF avatars for the month’s top 4 sales people.
-          Impact - Significant performance increases through Feb. 2020 (Covid impacts after).
+        B2C SALES GAMIFICATION<br>
+          Code -  Cognos; PeopleSoft; Cisco; SSIS; SQL; Klipfolio<br>
+          Description - Sales leaderboard with 2-minute refresh and GIF avatars for the month’s top 4 sales people.<br>
+          Impact - Significant performance increases through Feb. 2020 (Covid impacts after).<br><br>
 
     papers:
 
