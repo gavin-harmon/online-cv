@@ -45,8 +45,8 @@ projects:
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/read_me.html"
       - title: </span> </span>  - Doc example - script documentation
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/modules.html"
-      - title: Upload Assistant 2019Q4-2021Q2 - GitHub Repository
-        tagline: "<br>Python executable capable of reading xlsx, performing granular and aggregate result validations with user prompting, displaying and xlsx expoting financial reports, and creating json/parquet inputs for the data science pipeline."
+      - title: Papermill Notebook Data Science Pipeline- GitHub Repository
+        tagline: "<br>Retired production Data Science pipeline built in Papermill. <br> System has embedded markdown notes throughout run scripts, embedded charts and tables of transformations, realtime audits that can stop instance with a error codes, and auto archives of each script with results."
         link: "https://github.com/gavin-harmon/uploadassistantproj"
       - title: </span> </span>  - Application screenshots.
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/screenshots/screenshots.html"
