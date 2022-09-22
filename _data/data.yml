@@ -8,13 +8,13 @@ sidebar:
 
      # Profile information
     name: Gavin Harmon
-    tagline: Data Project Specialist
+    tagline: Business Intelligence & Data Project Specialist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: gavinharmonva@gmail.com
     phone: (703) 927-5258
-    timezone: EST/Richmond, VA USA
+    timezone: EST / Richmond, VA USA
     Location: Richmond, VA #do not add http://
     linkedin: gavin-harmon
     # xing: alandoe
@@ -58,11 +58,9 @@ projects:
 career-profile:
     title: Career Profile
     summary: |
-      Data professional with a decade long record of implementing 
-      successful automation, data solutions engineering, and process 
-      improvement projects on time. Currently seeking opportunities to
-      expand business capabilities through building custom data products, 
-      mining/query support, and ETL/ELT pipelines.
+     Data Solutions Specialist with a decade long record of implementing successful data software implementations, business intelligence 
+     engineering, and process improvement projects on time. Currently seeking opportunities to expand business capabilities through pipeline 
+     automation, data model support, and stakeholder relations.
 education:
     title: Education
     info:
@@ -74,32 +72,28 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Data Services Analyst 
+        time: July 2021 - Present
+        company: HighRoads, Boston MA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Service large insurance clients moving existing data to HighRoad’s P2A web-based plan management SaaS. Responsible for
+          requirements consultation, analyzing client platforms, designing ETL road maps, and delivering production data to 6-month
+          SOW milestones. Owned internal move of reporting library from legacy servers to AWS.
+            - Acknowledged company-wide for implementing a client within 6 months of hire date.
+            - Learned new tools quickly including Clover DX ETL, Postman, and MarkLogic.
+            - Worked in face-paced company-wide 2-week agile sprints.
+            - Team lead for an 8 week campaign of two consultant senior SQL developers.
+
+      - role: Senior Data Solutions Analyst
+        time: March 2020 - July 2021
+        company: Allianz Partners, Richmond VA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Designing and developing custom data solutions from user experience and validation at ingestion, to open source and auditable ETL, to presentation layer BI dashboarding. - Data Business Case and Vender Relations 
+            - Data Science Project Management 
+	        - Custom Python Development (Validation, ETL, and Presentation Layer primarily) 
+	        - Stakeholder Reporting 
+	        - Role involves project planning, python/R development, and delivery on a data strategy for reporting underwriting results to global executives managing Allianz Partners business in 30+ offices.
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
