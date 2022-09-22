@@ -110,20 +110,20 @@ experiences:
 publications:
     title: Projects
     intro: |
-      GLOBAL UNDERWRITING DATABASE
-          Code -  PostgresSQL; Gitlab; Flask; R Flexdashboard
-          Description - Private cloud reporting warehouse for Travel LoB Senior Global Leadership managing $1.5B book of insurance in 46 countries.
-          Impact - First multi-regional underwriting technical resource successfully launched. Insights provided on business partner and product performance.
+      GLOBAL UNDERWRITING DATABASE <br>
+          Code -  PostgresSQL; Gitlab; Flask; R Flexdashboard<br>
+          Description - Private cloud reporting warehouse for Travel LoB Senior Global Leadership managing $1.5B book of insurance in 46 countries.<br>
+          Impact - First multi-regional underwriting technical resource successfully launched. Insights provided on business partner and product performance.<br>
 
-        ‘UPLOAD ASSISTANT’ ETL AUDIT APPLICATION 
-          Code -  Python; Pandas; Pyinstaller; json; parquet
-          Description - GUI Application that reads technical reporting from local underwriters, displays aggregated reporting, shows comparisons to known financials, and validations for both data issues and metric thresholds before saving in json or parquet data files.
-          Impact - Replaced key project barrier; weeks-long, meetings-based, data quality feedback loop, with an instant process, survey results, and user feedback.
+        ‘UPLOAD ASSISTANT’ ETL AUDIT APPLICATION <br>
+          Code -  Python; Pandas; Pyinstaller; json; parquet<br>
+          Description - GUI Application that reads technical reporting from local underwriters, displays aggregated reporting, shows comparisons to known financials, and validations for both data issues and metric thresholds before saving in json or parquet data files.<br>
+          Impact - Replaced key project barrier; weeks-long, meetings-based, data quality feedback loop, with an instant process, survey results, and user feedback.<br>
 
-        CONTACT CENTER BI WAREHOUSE
-          Code -  MS SQL Server; SSMS; SSIS
-          Description - Business Intelligence server project lifecycle lead
-          Impact - Of three departments, this was the only one that went live on time and without major issues. Ability to manage vendors, anticipate process failures, include feature flags, and upskill ETL abilities as needed resulted in automated, source combination, and novel management user tools.
+        CONTACT CENTER BI WAREHOUSE<br>
+          Code -  MS SQL Server; SSMS; SSIS<br>
+          Description - Business Intelligence server project lifecycle lead<br>
+          Impact - Of three departments, this was the only one that went live on time and without major issues. Ability to manage vendors, anticipate process failures, include feature flags, and upskill ETL abilities as needed resulted in automated, source combination, and novel management user tools.<br>
 
         MOBILE CALL CENTER MANAGEMENT REPORT
           Code - Cisco; Powershell; XML; SSIS; SQL; Klipfolio
