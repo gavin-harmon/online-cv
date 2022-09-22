@@ -47,13 +47,13 @@ projects:
         link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/modules.html"
       - title: Papermill Notebook Data Science Pipeline- GitHub Repository
         tagline: "<br>Retired production Data Science pipeline built in Papermill. <br> System has embedded markdown notes throughout Python and R run scripts, embedded charts and tables of transformations, realtime validations that will stop an instance with a error descriptions, and archives each script with the instance results."
-        link: "https://github.com/gavin-harmon/uploadassistantproj"
-      - title: </span> </span>  - Application screenshots.
-        link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/screenshots/screenshots.html"
-      - title: </span> </span>  - Doc example - readme page
-        link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/read_me.html"
-      - title: </span> </span>  - Doc example - script documentation
-        link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj/blob/master/docs/_build/html/modules.html"
+        link: "https://github.com/gavin-harmon/Example_Jupyter_Pipeline"
+      - title: </span> </span>  - Pipeline run control example notebook. This notebook is capable of running other Python or Jupter Notebooks.
+        link: "https://github.com/gavin-harmon/Example_Jupyter_Pipeline/blob/personal/pipeline/run_control.ipynb"
+      - title: </span> </span>  - Pipeline run between a finished dummy data set with a "knit" of an Rmarkdown dashboard.
+        link: "https://github.com/gavin-harmon/Example_Jupyter_Pipeline/blob/personal/reporting/knit%20Finance_Comparison_PnL.ipynb"
+      - title: </span> </span>  - Pipeline engineer audit reporting of dummy data instance. Validations, tables and graphs to quickly assess and confirm or troubleshoot.
+        link: "https://github.com/gavin-harmon/Example_Jupyter_Pipeline/blob/personal/instances/2021.Q1/reporting/Audit%20Report06092021132743--live%2C%20add%20US.ipynb"
 
 career-profile:
     title: Career Profile
