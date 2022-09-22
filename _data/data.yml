@@ -134,11 +134,8 @@ publications:
 
 skills:
     title: Tech Skills
-
-    toolset:
-      - role: SQL Scripting and Job Scheduling (Oracle, SQL Server SMSS, and Postgres), ETL and BI Automation, Python (2+ years), R, Dashboard Design, Power BI, IBM Cognos, Tableau, Jupyter Notebooks, csv, xlsx, xml, json, parquet
-
-
+    intro: >
+      SQL Scripting and Job Scheduling (Oracle, SQL Server SMSS, and Postgres), ETL and BI Automation, Python (2+ years), R, Dashboard Design, Power BI, IBM Cognos, Tableau, Jupyter Notebooks, csv, xlsx, xml, json, parquet
  
 
 footer: >
