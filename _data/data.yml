@@ -94,18 +94,25 @@ experiences:
             - Stakeholder Reporting 
             - Role involves project planning, python/R development, and delivery on a data strategy for reporting underwriting results to global executives managing Allianz Partners business in 30+ offices.
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: BI / Data Solutions Analyst
+        time: Feb 2017 – March 2020
+        company: Allianz Partners, Richmond VA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Directed implementation of data solution/automation server for Operations. Global IT project landed successful and on time. 
+            - Priced prospective operation processing financial benefit claims (400 employees, $25M annual budget) 
+            - Claims volume forecast modeling using actuarial methods developed in FP&A Page 1 of 3
+            - Gamified sales team reporting 
+            - Automated intraday claims inventory reporting 
+            - Created unified Realtime call center performance reporting to executive cell phones.
 
+      - role: Financial Data Analyst
+        time: Nov 2014 – Feb 2017
+        company: Allianz Partners, Richmond VA
+        details: |
+            - Created actuarial data model for the FP&A earnings forecast up to 70% reduction in month over month variance in P&L results from core product lines.  
+            - Composed three-entity insurance model in inherited MS Excel format and transferred that insurance result forecast and reporting to BPC SAP database solution.
+            - Submitted official US Business Unit plans and results to Allianz HQ via SAP interface
+      - role: Contact for analytical experience prior to 2014. I joined Allianz in 2010 and moved departments frequently to implement new projects.
 
 publications:
     title: Projects
