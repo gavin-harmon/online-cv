@@ -38,7 +38,7 @@ projects:
     assignments:  
       - title: Upload Assistant 2019Q4-2021Q2 - GitHub Repository
         tagline: "<br>Python executable capable of reading xlsx, performing granular and aggregate result validations with user prompting, outputing new xlsx financial reports, and source files for data pipeline inputs."
-        link: "https://github.com/gavin-harmon/uploadassistantproj"
+        link: "https://htmlpreview.github.io/?https://github.com/gavin-harmon/uploadassistantproj"
       - title: </span> </span> Application screenshots.
         link: "https://github.com/gavin-harmon/uploadassistantproj/blob/master/screenshots/screenshots.html"
       - title: </span> </span>  Doc example - readme page (from archives)
