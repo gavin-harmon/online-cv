@@ -93,7 +93,7 @@ experiences:
     title: Experience
     info:
       - role: Lead Data Engineer 
-        time: April 2024 - Present
+        time: April 2023 - Present
         company: Hamilton Beach Brands, Richmond VA
         details: |
           Architect and manage complete enterprise data infrastructure for Fortune 500 consumer appliance manufacturer. 
@@ -104,8 +104,8 @@ experiences:
             - Developed AI-enhanced development workflows reducing solution delivery time 70%
             - Architected on-demand AKS compute clusters providing enterprise-grade analytics at fraction of traditional costs
 
-      - role: Data Engineer 
-        time: July 2021 - April 2024
+      - role: Data Services Architect 
+        time: July 2021 - April 2023
         company: HighRoads, Boston MA (Remote)
         details: |
           Led enterprise P&C insurance client implementations managing complex data migrations and technical consulting for 
