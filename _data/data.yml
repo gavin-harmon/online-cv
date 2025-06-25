@@ -67,11 +67,14 @@ projects:
 career-profile:
     title: Career Profile
     summary: |
-     Lead Data Engineer with 8+ years of experience architecting and implementing enterprise data platforms for Fortune 500 companies. 
-     Currently managing complete data infrastructure at Hamilton Beach Brands, supporting 125+ users with 600+ automated reports across 
-     finance, operations, and analytics. Expert in modern data orchestration (Dagster), cloud architecture (Azure/AWS), and cost-effective 
-     open-source solutions. Proven track record in insurance, manufacturing, and consumer goods industries with focus on delivering 
-     high-availability systems that drive business value.
+     **Lead Data Engineer** with 8+ years architecting enterprise data platforms for Fortune 500 companies.
+     
+     **Currently:** Managing complete data infrastructure at Hamilton Beach Brands
+     • Supporting 125+ users with 600+ automated reports
+     • Expertise in modern data orchestration (Dagster) and cloud architecture (Azure/AWS)
+     • Focus on cost-effective open-source solutions and high-availability systems
+     
+     **Industries:** Insurance • Manufacturing • Consumer Goods • SaaS Platforms
 
 education:
     title: Education
@@ -153,46 +156,41 @@ experiences:
 publications:
     title: Key Projects & Achievements
     intro: |
-      ENTERPRISE DATA ORCHESTRATION PLATFORM - Hamilton Beach Brands<br>
-          Tech Stack - Dagster, Azure, Python, DBT Core, Kubernetes, Real-time Monitoring<br>
-          Description - Microservices-based orchestration platform with automated monitoring, error handling, and self-healing capabilities<br>
-          Impact - 99.9% uptime, eliminated 40+ hours weekly manual work, reduced processing time from 6 hours to 30 minutes<br><br>
+      **ENTERPRISE DATA ORCHESTRATION PLATFORM** • Hamilton Beach Brands<br>
+          Dagster • Azure • Python • DBT Core • Kubernetes<br>
+          Microservices platform with automated monitoring and self-healing capabilities<br>
+          <em>Impact:</em> 99.9% uptime, eliminated 40+ hours weekly manual work<br><br>
 
-        HIGH-PERFORMANCE ANALYTICS INFRASTRUCTURE - Hamilton Beach Brands<br>
-          Tech Stack - Azure Kubernetes Service, Jupyter, DuckDB, Distributed Computing<br>
-          Description - On-demand compute clusters with auto-scaling and resource optimization<br>
-          Impact - 90% cost reduction while achieving 300% performance improvement and 10x dataset capacity<br><br>
+        **HIGH-PERFORMANCE ANALYTICS INFRASTRUCTURE** • Hamilton Beach Brands<br>
+          Azure Kubernetes Service • Jupyter • DuckDB • Distributed Computing<br>
+          On-demand compute clusters with auto-scaling and resource optimization<br>
+          <em>Impact:</em> 90% cost reduction, 300% performance improvement<br><br>
 
-        AI-ENHANCED DEVELOPMENT PLATFORM - Hamilton Beach Brands<br>
-          Tech Stack - Generative AI Tools, Modern Development Frameworks, Azure DevOps<br>
-          Description - Integrated AI-powered development workflow for rapid prototyping and deployment<br>
-          Impact - 70% reduction in delivery time, replaced $50K+ vendor solutions with internal capabilities<br><br>
+        **AI-ENHANCED DEVELOPMENT PLATFORM** • Hamilton Beach Brands<br>
+          Generative AI Tools • Modern Development Frameworks • Azure DevOps<br>
+          Integrated AI-powered workflow for rapid prototyping and deployment<br>
+          <em>Impact:</em> 70% faster delivery, replaced $50K+ vendor solutions<br><br>
 
-        GLOBAL UNDERWRITING DATABASE - Allianz Partners<br>
-          Tech Stack - PostgreSQL, GitLab, Flask, R Flexdashboard<br>
-          Description - Private cloud reporting warehouse for global leadership managing $1.5B insurance portfolio across 46 countries<br>
-          Impact - First successful multi-regional underwriting technical resource, provided critical business partner insights<br><br>
+        **GLOBAL UNDERWRITING DATABASE** • Allianz Partners<br>
+          PostgreSQL • GitLab • Flask • R Flexdashboard<br>
+          Private cloud warehouse for $1.5B insurance portfolio across 46 countries<br>
+          <em>Impact:</em> First successful multi-regional underwriting resource<br><br>
 
-        'UPLOAD ASSISTANT' ETL AUDIT APPLICATION - Allianz Partners<br>
-          Tech Stack - Python, Pandas, PyInstaller, JSON, Parquet<br>
-          Description - GUI Application for automated data validation and quality checking with real-time feedback<br>
-          Impact - Replaced weeks-long manual processes with instant validation, survey results, and user feedback<br><br>
-
-        CONTACT CENTER BI WAREHOUSE - Allianz Partners<br>
-          Tech Stack - MS SQL Server, SSMS, SSIS<br>
-          Description - Full lifecycle business intelligence server implementation for operations department<br>
-          Impact - Only department to go live on-time without major issues, delivered automated reporting and novel management tools<br><br>
+        **ETL AUDIT APPLICATION** • Allianz Partners<br>
+          Python • Pandas • PyInstaller • JSON • Parquet<br>
+          GUI application for automated data validation with real-time feedback<br>
+          <em>Impact:</em> Replaced weeks-long manual processes with instant validation<br><br>
 
     papers:
 
 skills:
     title: Technical Skills
     intro: >
-      **Modern Data Engineering:** Dagster, DBT Core, DLT, Data Lake Architecture, Real-time Pipelines, High Availability Design<br>
-      **Programming & Development:** Python (Pandas, Polars, DuckDB), SQL (Advanced), R, AI-Enhanced Development<br>
-      **Cloud & Infrastructure:** Azure (AKS, Blob Storage, SQL Database), AWS (S3, EC2, RDS, Lambda), Kubernetes, Docker<br>
-      **Analytics & BI:** Power BI (Pro & Embedded), Streamlit, Jupyter/Marimo, Tableau, Performance Optimization<br>
-      **Legacy Enterprise:** SSIS, SSMS, IBM Cognos, Oracle, SAP, Insurance Domain Expertise
+      **Data Engineering:** Dagster • DBT Core • DLT • Data Lake Architecture • Real-time Pipelines<br><br>
+      **Programming:** Python (Pandas, Polars, DuckDB) • SQL (Advanced) • R • AI-Enhanced Development<br><br>
+      **Cloud Platforms:** Azure (AKS, Blob Storage) • AWS (S3, EC2, Lambda) • Kubernetes • Docker<br><br>
+      **Analytics & BI:** Power BI (Pro & Embedded) • Streamlit • Jupyter/Marimo • Tableau<br><br>
+      **Enterprise Systems:** SSIS • SSMS • IBM Cognos • Oracle • SAP • Insurance Domain
  
 
 footer: >
